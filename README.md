@@ -1,7 +1,7 @@
 # Mary Crivelli 
 Hello and welcome to my Github profile. 👋
 
-I'm a software engineer at ![Plex](https://img.shields.io/badge/-Plex-E5A00D?logo=Plex&logoColor=white&style=for-the-badge) 
+I'm a software engineer at Plex
 
 ---
 
