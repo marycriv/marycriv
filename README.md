@@ -1,7 +1,7 @@
 # Mary Crivelli 
 Hello and welcome to my Github profile. 👋
 
-I'm a front end developer at IBM.
+I'm a software engineer at ![Plex](https://img.shields.io/badge/-Plex-#E5A00D?logo=plex&logoColor=white&style=for-the-badge) 
 
 ---
 
